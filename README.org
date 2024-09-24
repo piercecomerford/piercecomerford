@@ -1,5 +1,5 @@
 that's not a black board, that's the black hole!
 
-\[\mathrm{d}s^2 = \left(1 - \frac{2M}{r}\right) \mathrm{d}t^2 - \left(1 - \frac{2M}{r}\right)^{-1} \mathrm{d}r^2 - r^2 \mathrm{d}\Omega^2\]
+$$\mathrm{d}s^2 = \left(1 - \frac{2M}{r}\right) \mathrm{d}t^2 - \left(1 - \frac{2M}{r}\right)^{-1} \mathrm{d}r^2 - r^2 \mathrm{d}\Omega^2$$
 
 this isn't the university of life, this is the university of you!
